@@ -151,10 +151,12 @@ display:block;}
 
 .category-row span{
     width: 180px;
+    margin-left: 30px;
 }
 
 .box-row{
     display: flex;
+    margin-left:50px;
 }
 
 .box{
@@ -173,7 +175,7 @@ display:block;}
     justify-content: center;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 760px) {
     .button-style{
         display: flex; 
         justify-content: center;
