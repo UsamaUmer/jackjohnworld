@@ -145,7 +145,7 @@ display:block;}
 
 .category-row{
     display: flex;
-    justify-content: row;
+    
     padding-bottom: 10px;
 }
 
